@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
+matplotlib
+pdfplumber
+SpeechRecognition
+pipwin
+pyaudio
